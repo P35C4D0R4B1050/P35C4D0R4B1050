@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**P35C4D0R4B1050/P35C4D0R4B1050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador de software con especial interés en **C# y el ecosistema .NET**, enfocado en el diseño y desarrollo de aplicaciones con arquitecturas claras, mantenibles y orientadas a buenas prácticas.
 
-Here are some ideas to get you started:
+A través de mis proyectos he trabajado con **ASP.NET Core, Entity Framework Core, bases de datos relacionales, APIs y arquitecturas por capas**. También cuento con conocimientos de **Python a nivel intermedio**, principalmente para desarrollo y experimentación en proyectos personales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y áreas de interés
+
+* **C# / .NET** — principal stack de desarrollo
+* **ASP.NET Core / Entity Framework Core**
+* **Python** — nivel intermedio
+* **SQL y bases de datos relacionales**
+* **Arquitectura y diseño de software**
+* **GNU/Linux** — experiencia de uso con distribuciones como **Fedora y Debian**
+* **Ciberseguridad**
+* **Autenticación, privacidad y desarrollo seguro**
+* **Desarrollo asistido por IA**
+
+### 🔐 Ciberseguridad
+
+Tengo un especial interés en **ciberseguridad y seguridad del software**, explorando temas como autenticación, privacidad, protección de datos, comunicaciones seguras y diseño de sistemas considerando la seguridad desde sus primeras etapas.
+
+### 🚀 Aprendizaje continuo
+
+Considero el aprendizaje continuo una parte fundamental del desarrollo de software. Me gusta **explorar nuevas tecnologías, comprender cómo funcionan los sistemas y experimentar con diferentes herramientas y enfoques**, especialmente cuando permiten mejorar la calidad, seguridad y mantenibilidad de los proyectos.
+
+Actualmente continúo ampliando mis conocimientos tanto en **desarrollo de software como en ciberseguridad**, buscando conectar ambas áreas en proyectos académicos y personales.
+
+> 💡 Mi objetivo es seguir construyendo software que no solo funcione, sino que esté bien diseñado, sea mantenible y considere la seguridad desde su concepción.
